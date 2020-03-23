@@ -1,9 +1,6 @@
 // alert("working!");
-// alert("jello");
-// var=randonNumber1;
-// n=(1-6);
-//
-// document.querySelector="img2" setAttribute(images/dice1.png)
+
+
 var randomNumber1 =Math.floor(Math.random()*6)+1;
 
 var randomDiceImage ="dice"+ randomNumber1 +".png";
